@@ -3,7 +3,7 @@
 from .. import bot
 from telethon import events
 
-text = """lThanks for joining our channel. (This is an automated message)
+text = """Thanks for joining our channel. (This is an automated message)
 
 **Do check out our other bot :** (Click here)[https://t.me/Useful_Premium_Bots/2]"""
 
