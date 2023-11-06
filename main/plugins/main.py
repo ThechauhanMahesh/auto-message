@@ -5,7 +5,7 @@ from telethon import events
 
 text = """Thanks for joining our channel. (This is an automated message)
 
-**Do check out our other bot :** (Click here)[https://t.me/Useful_Premium_Bots/2]"""
+**Do check out our other bots :** (Click here)[https://t.me/Useful_Premium_Bots/2]"""
 
 @bot.on(events.ChatAction)
 async def _(event):
